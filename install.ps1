@@ -22,7 +22,6 @@ $apps = @(
     "Adobe.Acrobat.Reader.64-bit",
     "Nvidia.GeForceNow",
     "XP9KHM4BK9FZ7Q",
-    "Raycast.Raycast",
     "9NP83LWLPZ9K", 
     "9P3JFR0CLLL6",
     "Microsoft.DotNet.SDK.8",
