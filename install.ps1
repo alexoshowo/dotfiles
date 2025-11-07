@@ -12,7 +12,7 @@ $apps = @(
     "ShareX.ShareX",
     "Discord.Discord",
     "SublimeHQ.SublimeText.4",
-    "Microsoft.VisualStudioCode",
+    "ZedIndustries.Zed",
     "Git.Git"
     "Flow-Launcher.Flow-Launcher",
     "flux.flux",
@@ -23,7 +23,7 @@ $apps = @(
     "Nvidia.GeForceNow",
     "XP9KHM4BK9FZ7Q",
     "Raycast.Raycast",
-    "9NP83LWLPZ9K", 
+    "9NP83LWLPZ9K",
     "9P3JFR0CLLL6",
     "Microsoft.DotNet.SDK.8",
     "Microsoft.DotNet.SDK.6",
@@ -47,7 +47,6 @@ $apps = @(
     "Logitech.OptionsPlus",
     "ppy.osu",
     "XPDM1ZW6815MQM",
-    "Anysphere.Cursor", 
     "9NBLGGH33N0N",
     "PrismLauncher.PrismLauncher",
 )
@@ -61,4 +60,3 @@ wsl --install
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
 
 REG ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize" /V "Startupdelayinmsec" /T REG_DWORD /D 0 /F
-
