@@ -12,7 +12,7 @@ $apps = @(
     "Microsoft.VisualStudioCode",
     "ZedIndustries.Zed",
     "Git.Git"
-    "Flow-Launcher.Flow-Launcher",
+    "Raycast.Raycast",
     "Meld.Meld",
     "VideoLAN.VLC",
     "KDE.Okular",
